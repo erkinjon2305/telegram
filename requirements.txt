@@ -2,5 +2,5 @@ aiogram==2.25.1
 google-generativeai==0.3.2
 requests==2.31.0
 python-pptx==0.6.23
-Pillow==9.3.0
+./wheels/Pillow-9.5.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 python-dotenv==1.0.1
